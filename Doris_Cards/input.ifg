@@ -1,0 +1,5 @@
+PROCESS  interfero
+INT_OUT_CINT  Outdata/Interfero_New.cint
+INT_MULTILOOK  1 1
+PREVIEW on
+STOP
